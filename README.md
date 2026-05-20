@@ -178,11 +178,9 @@ Crypto dashboard with live market tracking, search, and API-driven visual analyt
 
 <div align="center">
 
-![Pragati's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pragatighosh25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pragatighosh25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pragatighosh25&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=pragatighosh25&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pragatighosh25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
